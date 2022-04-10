@@ -9,6 +9,7 @@
 疫情的这2年里，感觉时间过得很快，没考什么证书，但愿留点看得见的东西，有所沉淀，也算是没白折腾。
 
 架构采用： python+Django,AdminLTE+Layui,mysql+redis
+
 基本功能： CMDB + Ansible管理 + 任务调度 + 应用发布 + 多云管理 + 多k8s集群管理 等
 
 ### weopswa自动化管理平台之多云管理
