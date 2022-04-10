@@ -15,13 +15,13 @@
 基本功能： CMDB + Ansible管理 + 任务调度 + 应用发布 + 多云管理 + 多k8s集群管理 等
 
 ##### 多云管理
-目前可以支持AWS，阿里云，Azure云主机的管理，并结合CMDB可以进行日常的各种运维工作.
+目前支持AWS，阿里云，Azure云主机的管理，并结合CMDB可以进行日常的各种运维工作.
 <video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/035d4d09d18c4d67940f1f028cc9ba67.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
       <source id="mp4" src="http://mpvideo.qpic.cn/0bc3r4aawaaabyaez4cs7nrfbd6dbohqacya.f10002.mp4?dis_k=e85ecff76a937f580a7f75c5d06d5286&dis_t=1649560128&spec_id=undefined1649560127&vid=wxv_2348259189875228673&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
 </video>
 
 ##### Ansible管理
-上面cmdb中主机的信息自动定时收集会调用ansible的接口，下面应用发布也会用到ansible的接口。
+上面cmdb中主机的信息采集会调用ansible的接口，下面应用发布也会用到ansible的接口。
 <video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/bc7133ffd69e476fbd4174de99cd5fdb.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
       <source id="mp4" src="http://mpvideo.qpic.cn/0bc3buaayaaacmagriks3nrfadodbqgqadaa.f10002.mp4?dis_k=11959a30d440d9b977b7958f83724a65&dis_t=1649567201&spec_id=undefined1649567200&vid=wxv_2348382078318362624&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
 </video>
@@ -35,7 +35,7 @@
 
 
 ##### 多k8s集群管理
-目前正在开发过程中，仅完成了一些基本的功能，刚完成了deploymnet的弹性收缩，版本回滚，在线yaml修改配置。
+目前正在开发过程中，仅完成了一些基本的功能，刚完成了deploymnet的弹性收缩，版本回滚，实时通过yaml修改配置。
 <video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/a6e4664bcddc4076be1676cf9253e57e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
       <source id="mp4" src="http://mpvideo.qpic.cn/0bc3viaawaaadeaean2s7frfbkwdbovaacya.f10002.mp4?dis_k=16d10935ea143858996081e186968ad1&dis_t=1649561440&spec_id=undefined1649561440&vid=wxv_2348277204310245377&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
 </video>
