@@ -18,3 +18,9 @@
 
 
 
+<video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/2b3b589b931448059b100fcb5632b656.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
+      <source id="mp4" src="http://mpvideo.qpic.cn/0bc3viaawaaadeaean2s7frfbkwdbovaacya.f10002.mp4?dis_k=16d10935ea143858996081e186968ad1&dis_t=1649561440&spec_id=undefined1649561440&vid=wxv_2348277204310245377&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
+</video>
+
+
+
