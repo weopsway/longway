@@ -20,13 +20,18 @@
       <source id="mp4" src="http://mpvideo.qpic.cn/0bc3r4aawaaabyaez4cs7nrfbd6dbohqacya.f10002.mp4?dis_k=e85ecff76a937f580a7f75c5d06d5286&dis_t=1649560128&spec_id=undefined1649560127&vid=wxv_2348259189875228673&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
 </video>
 
+##### Ansible管理
+前面的cmdb中主机的信息收集会调用ansible的接口，后面应用发布也会调用ansible的api接口。
+<video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/bc7133ffd69e476fbd4174de99cd5fdb.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
+      <source id="mp4" src="http://mpvideo.qpic.cn/0bc3buaayaaacmagriks3nrfadodbqgqadaa.f10002.mp4?dis_k=11959a30d440d9b977b7958f83724a65&dis_t=1649567201&spec_id=undefined1649567200&vid=wxv_2348382078318362624&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
+</video>
+
 ##### 应用发布
 类似于简单的jenkins，可以自动项目配置，然后选择应用不同的tag/bracher进行发布
 <video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/2b3b589b931448059b100fcb5632b656.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
       <source id="mp4" src="http://mpvideo.qpic.cn/0bf2piac4aaaqiamq5gjn5qfa6wdfz5aalqa.f10002.mp4?dis_k=4b66fb3b8f06f4f126ddde98911ace1a&dis_t=1649555169&spec_id=undefined1649555169&vid=wxv_1916836015676178436&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
 </video>
 
-##### Ansible管理
 
 
 ##### 多k8s集群管理
