@@ -10,9 +10,9 @@
 
 
 ##### 开发架构
-架构采用： python+Django,AdminLTE+Layui,mysql+redis
+架构采用： Python+Django,AdminLTE+Layui,Mysql+Redis
 
-基本功能： CMDB + Ansible管理 + 任务调度 + 应用发布 + 多云管理 + 多k8s集群管理 等
+基本功能： CMDB + Ansible/Shell管理 + 任务调度 + 应用发布 + 多云管理 + 多k8s集群管理 等
 
 ##### 多云管理
 目前支持AWS，阿里云，Azure云主机的管理，并结合CMDB可以进行日常的各种运维工作.
