@@ -26,6 +26,8 @@
       <source id="mp4" src="http://mpvideo.qpic.cn/0bf2piac4aaaqiamq5gjn5qfa6wdfz5aalqa.f10002.mp4?dis_k=4b66fb3b8f06f4f126ddde98911ace1a&dis_t=1649555169&spec_id=undefined1649555169&vid=wxv_1916836015676178436&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
 </video>
 
+##### Ansible管理
+
 
 ##### 多k8s集群管理
 目前正在开发过程中，仅完成了一些基本的功能，最近完成了deploymnet的弹性收缩，版本回滚，在线yaml修改配置。
