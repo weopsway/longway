@@ -21,7 +21,7 @@
 ##### Ansible管理
 上面cmdb中主机的信息采集会调用ansible的接口，下面应用发布也会用到ansible的接口。
 <video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/bc7133ffd69e476fbd4174de99cd5fdb.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
-      <source id="mp4" src="http://mpvideo.qpic.cn/0bc3buaayaaacmagriks3nrfadodbqgqadaa.f10002.mp4?dis_k=68f081bba730744096aab6dde172c21e&dis_t=1649643989&spec_id=undefined1649643988&vid=wxv_2348382078318362624&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
+      <source id="mp4" src="http://mpvideo.qpic.cn/0bc3r4aawaaabyaez4cs7nrfbd6dbohqacya.f10002.mp4?dis_k=c63b3364cc2f8ce56a260511f57bc891&dis_t=1649644973&spec_id=undefined1649644972&vid=wxv_2348259189875228673&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
 </video>
 
 ##### 应用发布
