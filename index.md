@@ -12,6 +12,12 @@
 
 基本功能： CMDB + Ansible/Shell管理 + 任务调度 + 应用发布 + 多云管理 + 多k8s集群管理 等
 
+##### 多k8s集群管理
+目前正在开发过程中，仅完成了一些基本的功能，刚完成了deploymnet的弹性收缩，版本回滚，实时通过yaml修改配置。
+<video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/a6e4664bcddc4076be1676cf9253e57e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
+      <source id="mp4" src="http://mpvideo.qpic.cn/0bc3viaawaaadeaean2s7frfbkwdbovaacya.f10002.mp4?dis_k=3000bcdc9d8ac9bd3522e64ccf16ecc2&dis_t=1649725427&spec_id=undefined1649725425&vid=wxv_2348277204310245377&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
+</video>
+
 ##### 多云管理
 目前支持AWS，阿里云，Azure云主机的管理，并结合CMDB可以进行日常的各种运维工作.
 <video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/035d4d09d18c4d67940f1f028cc9ba67.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
@@ -29,15 +35,6 @@
 <video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/2b3b589b931448059b100fcb5632b656.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
       <source id="mp4" src="http://mpvideo.qpic.cn/0bf2piac4aaaqiamq5gjn5qfa6wdfz5aalqa.f10002.mp4?dis_k=39708686764975185be822bf753c2514&dis_t=1649725387&spec_id=undefined1649725386&vid=wxv_1916836015676178436&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
 </video>
-
-
-
-##### 多k8s集群管理
-目前正在开发过程中，仅完成了一些基本的功能，刚完成了deploymnet的弹性收缩，版本回滚，实时通过yaml修改配置。
-<video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/a6e4664bcddc4076be1676cf9253e57e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
-      <source id="mp4" src="http://mpvideo.qpic.cn/0bc3viaawaaadeaean2s7frfbkwdbovaacya.f10002.mp4?dis_k=3000bcdc9d8ac9bd3522e64ccf16ecc2&dis_t=1649725427&spec_id=undefined1649725425&vid=wxv_2348277204310245377&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
-</video>
-
 
 关于IT自动化和智能化，这个话题一直都在讨论，个人觉得自动化更注重于将多云(包含容器云)，devops, os/mw/database日常运维, 多任务批量调度，工单系统，多维可视化，多平台全链路安全监控日志告警等融合集成一体化，目标应该就是AllInOne的一体化运维平台，全链路监控，流程审批，安全审计以及开发、运维、项目管理等。既能适用于运维人员，也适用于开发和项目管理人员等。
 
