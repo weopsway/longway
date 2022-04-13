@@ -29,7 +29,7 @@
 
 ##### 应用发布
 类似于简单的jenkins，可以进行项目发布配置，然后选择应用不同的tag/bracher进行发布
-<video id="video"  width="400" height="300" controls=""  preload="none" poster="http://mpvideo.qpic.cn/0bf2piac4aaaqiamq5gjn5qfa6wdfz5aalqa.f10002.mp4?dis_k=96c3fb0e7162f436df0af1e1af8d0e1a&dis_t=1649821922&spec_id=undefined1649821918&vid=wxv_1916836015676178436&format_id=10002&support_redirect=1&mmversion=false">
+<video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/2b3b589b931448059b100fcb5632b656.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
       <source id="mp4" src="http://mpvideo.qpic.cn/0bf2piac4aaaqiamq5gjn5qfa6wdfz5aalqa.f10002.mp4?dis_k=96c3fb0e7162f436df0af1e1af8d0e1a&dis_t=1649821922&spec_id=undefined1649821918&vid=wxv_1916836015676178436&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
 </video>
 
