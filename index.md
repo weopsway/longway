@@ -4,6 +4,8 @@
 
 疫情的这两年，感觉时间过得很快，但愿留点看得见的东西，有所沉淀。
 
+<iframe height=498 width=510 src='https://player.youku.com/embed/XNTE0MzEzMTAyMA==' frameborder=0 'allowfullscreen'></iframe>
+
 ##### 开发架构
 架构采用： Python+Django,AdminLTE+Layui,Mysql+Redis
 
