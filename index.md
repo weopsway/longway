@@ -11,9 +11,7 @@
 
 ##### 多k8s集群管理
 目前正在开发过程中，仅完成了一些基本的功能，刚完成了deploymnet的弹性收缩，版本回滚，在线通过yaml修改配置。
-<video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/a6e4664bcddc4076be1676cf9253e57e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
-     <iframe src="//player.bilibili.com/player.html?aid=600501837&bvid=BV1sB4y1W7hv&cid=762977642&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</video>
+<iframe src="//player.bilibili.com/player.html?aid=651976223&bvid=BV1qe4y1F7YP&cid=1011031440&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
