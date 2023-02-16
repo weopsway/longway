@@ -12,18 +12,22 @@
 ##### 多k8s集群管理
 目前正在开发过程中，仅完成了一些基本的功能，刚完成了deploymnet的弹性收缩，版本回滚，在线通过yaml修改配置。
 <iframe src="//player.bilibili.com/player.html?aid=651976223&bvid=BV1qe4y1F7YP&cid=1011031440&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+原始视频站点：https://space.bilibili.com/2116059519  
 
 ##### 多云管理
 目前支持AWS，阿里云，Azure云主机的管理，并结合CMDB可以进行日常的各种运维工作.
 <iframe src="//player.bilibili.com/player.html?aid=949386838&bvid=BV1vs4y1a7R3&cid=1011050165&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+原始视频站点：https://space.bilibili.com/2116059519  
 
 ##### Ansible管理
 上面cmdb中主机的信息采集会调用ansible的接口，下面应用发布也会用到ansible的接口。
 <iframe src="//player.bilibili.com/player.html?aid=224431246&bvid=BV1Eb411R7GV&cid=1011059521&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+原始视频站点：https://space.bilibili.com/2116059519  
 
 ##### 应用发布
 类似于简单的jenkins，可以进行项目发布配置，然后选择应用不同的tag/bracher进行发布
 <iframe src="//player.bilibili.com/player.html?aid=651965709&bvid=BV11e4y1F7WF&cid=1011027483&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+原始视频站点：https://space.bilibili.com/2116059519  
 
 ##### 监控平台
 后面会有单独的监控管理平台，采用的无客户端安装模式进行数据采集， 包含硬件、基础架构，多云，容器云，OS，中间件，数据库等，并接入zabbix/promethue等各种监控api，集成Slack/钉钉/微信/邮件/短信/电话，实现AllInOne的告警平台以及故障自愈
