@@ -13,25 +13,17 @@
 目前正在开发过程中，仅完成了一些基本的功能，刚完成了deploymnet的弹性收缩，版本回滚，在线通过yaml修改配置。
 <iframe src="//player.bilibili.com/player.html?aid=651976223&bvid=BV1qe4y1F7YP&cid=1011031440&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-
-
 ##### 多云管理
 目前支持AWS，阿里云，Azure云主机的管理，并结合CMDB可以进行日常的各种运维工作.
-<video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/035d4d09d18c4d67940f1f028cc9ba67.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
-      <source id="mp4" src="http://mpvideo.qpic.cn/0bc3r4aawaaabyaez4cs7nrfbd6dbohqacya.f10002.mp4?dis_k=c3f457af4736e680c34d565c7b18be7a&dis_t=1652321310&spec_id=undefined1652321305&vid=wxv_2348259189875228673&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
-</video>
+<iframe src="//player.bilibili.com/player.html?aid=949386838&bvid=BV1vs4y1a7R3&cid=1011050165&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ##### Ansible管理
 上面cmdb中主机的信息采集会调用ansible的接口，下面应用发布也会用到ansible的接口。
-<video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/bc7133ffd69e476fbd4174de99cd5fdb.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
-      <source id="mp4" src="http://mpvideo.qpic.cn/0bc3buaayaaacmagriks3nrfadodbqgqadaa.f10002.mp4?dis_k=ae0a27eebba9ade7fac19ed4316004b1&dis_t=1652321348&spec_id=undefined1652321343&vid=wxv_2348382078318362624&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
-</video>
+<iframe src="//player.bilibili.com/player.html?aid=224431246&bvid=BV1Eb411R7GV&cid=1011059521&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ##### 应用发布
 类似于简单的jenkins，可以进行项目发布配置，然后选择应用不同的tag/bracher进行发布
-<video id="video"  width="400" height="300" controls=""  preload="none" poster="https://img-blog.csdnimg.cn/2b3b589b931448059b100fcb5632b656.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAd2VvcHN3YXk=,size_20,color_FFFFFF,t_70,g_se,x_16">
-      <source id="mp4" src="http://mpvideo.qpic.cn/0bf2piac4aaaqiamq5gjn5qfa6wdfz5aalqa.f10002.mp4?dis_k=9bd8c4db4d00cfec3d34e1635caee7be&dis_t=1652321385&spec_id=undefined1652321380&vid=wxv_1916836015676178436&format_id=10002&support_redirect=1&mmversion=false" type="video/mp4">
-</video>
+<iframe src="//player.bilibili.com/player.html?aid=651965709&bvid=BV11e4y1F7WF&cid=1011027483&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 关于IT自动化和智能化，这个话题一直都在讨论，个人觉得自动化更注重于将多云(包含容器云)，devops, os/mw/database日常运维, 多任务批量调度，工单系统，多维可视化，多平台全链路安全监控日志告警等融合集成一体化，目标应该就是AllInOne的一体化运维平台，全链路监控，流程审批，安全审计以及开发、运维、项目管理等。既能适用于运维人员，也适用于开发和项目管理人员等。
 
